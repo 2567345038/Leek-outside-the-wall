@@ -1,4 +1,5 @@
 
+
 # HTTP 代理端口
 port: 7890 
 
@@ -30,23 +31,23 @@ secret: ''
 
 
 proxies:
-  - {"name":"台湾-01","type":"trojan","server":"20001.purefast2.com","port":20001,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"台湾-02","type":"trojan","server":"20016.purefast2.com","port":20016,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"土耳其","type":"trojan","server":"20008.purefast2.com","port":20008,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"巴西","type":"trojan","server":"20012.purefast2.com","port":20012,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"德国","type":"trojan","server":"20013.purefast2.com","port":20013,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"新加坡-01","type":"trojan","server":"20006.purefast2.com","port":20006,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"新加坡-02","type":"trojan","server":"20015.purefast2.com","port":20015,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"日本","type":"trojan","server":"20004.purefast2.com","port":20004,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"法国","type":"trojan","server":"20010.purefast2.com","port":20010,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"泰国","type":"trojan","server":"20005.purefast2.com","port":20005,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"美国","type":"trojan","server":"20003.purefast2.com","port":20003,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"英国","type":"trojan","server":"20009.purefast2.com","port":20009,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"荷兰","type":"trojan","server":"20011.purefast2.com","port":20011,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"越南","type":"trojan","server":"20007.purefast2.com","port":20007,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"韩国","type":"trojan","server":"20002.purefast2.com","port":20002,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"香港-01","type":"trojan","server":"20000.purefast2.com","port":20000,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
-  - {"name":"香港-02","type":"trojan","server":"20014.purefast2.com","port":20014,"password":"858a2f26-f53a-30f7-beef-9aff1233aa83","sni":"purefast1.com"}
+  - {"name":"台湾-01","type":"trojan","server":"20001.purefast2.com","port":20001,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"台湾-02","type":"trojan","server":"20016.purefast2.com","port":20016,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"土耳其","type":"trojan","server":"20008.purefast2.com","port":20008,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"巴西","type":"trojan","server":"20012.purefast2.com","port":20012,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"德国","type":"trojan","server":"20013.purefast2.com","port":20013,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"新加坡-01","type":"trojan","server":"20006.purefast2.com","port":20006,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"新加坡-02","type":"trojan","server":"20015.purefast2.com","port":20015,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"日本","type":"trojan","server":"20004.purefast2.com","port":20004,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"法国","type":"trojan","server":"20010.purefast2.com","port":20010,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"泰国","type":"trojan","server":"20005.purefast2.com","port":20005,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"美国","type":"trojan","server":"20003.purefast2.com","port":20003,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"英国","type":"trojan","server":"20009.purefast2.com","port":20009,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"荷兰","type":"trojan","server":"20011.purefast2.com","port":20011,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"越南","type":"trojan","server":"20007.purefast2.com","port":20007,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"韩国","type":"trojan","server":"20002.purefast2.com","port":20002,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"香港-01","type":"trojan","server":"20000.purefast2.com","port":20000,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
+  - {"name":"香港-02","type":"trojan","server":"20014.purefast2.com","port":20014,"password":"7cb1273a-c90e-3dcd-9911-57c5e4124375","sni":"purefast1.com"}
 
 proxy-groups:
 -
